@@ -44,7 +44,7 @@ docker run -d -p 9000:9000 --name java erickjrm/programjava:latest
 Open the Docker Desktop to see if the image is created correctly and send it to run to view.
 
 - *Step #5*
-- 
+  
 **Acces the application**: Is running you can accces the applicaction by to the
 
 following url in your web browser: http://localhost:9000
